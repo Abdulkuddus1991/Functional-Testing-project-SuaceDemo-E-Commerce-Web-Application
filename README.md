@@ -14,9 +14,9 @@ SauceDemo is a demo e-commerce web application. Users can log in, browse product
 
 
 ## Test Environment
-•*Application URL:* https://www.saucedemo.com
-•*Browser:* Google Chrome / Mozilla Firefox / Microsoft Edge
-•*Testing Type:* Manual Functional Testing
+  •*Application URL:* https://www.saucedemo.com
+  •*Browser:* Google Chrome / Mozilla Firefox / Microsoft Edge
+  •*Testing Type:* Manual Functional Testing
 ---
 
 
