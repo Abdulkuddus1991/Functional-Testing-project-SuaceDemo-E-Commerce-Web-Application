@@ -1,56 +1,71 @@
-# SauceDemo — E-Commerce Web Application Functional Testing
 
-*Tester:* Abdul Kuddus
-*Date:* November 2026
+## 🛒 SauceDemo — E-Commerce Functional Testing
 
----
-
-
-
-## Project Overview
-SauceDemo is a demo e-commerce web application. Users can log in, browse products, search, sort by price, view details, add items to cart, and complete the checkout process. This project documents the complete manual functional testing of the core user journey.
+**Tester:** Abdul Kuddus
+**Date:** November 2026
+**Version:** 1.0
 
 ---
 
+## 📌 Project Overview
 
-## Test Environment
-  •*Application URL:* https://www.saucedemo.com
-  •*Browser:* Google Chrome / Mozilla Firefox / Microsoft Edge
-  •*Testing Type:* Manual Functional Testing
----
-
-
-
-## Business Logic
-*Main User Flow:* Login → Browse Products → Search → View Details → Add to Cart → Checkout → Order Complete → Logout
+SauceDemo is a demo e-commerce application. This report documents complete manual functional testing covering the full user journey: login, browsing, searching, sorting, cart management, checkout, and logout.
 
 ---
 
+## 🌐 Test Environment
 
-
-## Tested Modules
-
-| No. | Module | Test Cases | Purpose |
-|-----|--------|-----------|---------|
-| 1 | *User Login* | 21 | Verify users can access the system securely |
-| 2 | *Product Search* | 6 | Verify users can find items by keyword |
-| 3 | *Product Sorting* | 6 | Verify sorting by price: low to high / high to low |
-| 4 | *Product View* | 16 | Verify product details — name, price, image, description |
-| 5 | *Add to Cart* | 13 | Verify items are correctly added and cart updates |
-| 6 | *Checkout & Order Completion* | 14 | Verify form submission, overview page, and order confirmation |
+- **Application URL:** [https://www.saucedemo.com](https://www.saucedemo.com)
+- **Browsers Tested:** Google Chrome, Mozilla Firefox, Microsoft Edge
+- **Testing Type:** Manual Functional Testing
 
 ---
 
- 
+## 🔄 Main User Flow
 
-## Test Summary
-•*Total Modules:* 6
-•*Total Test Cases:* 76
-•*Positive Test Cases:* 38
-•*Negative Test Cases:* 38
-•*Test Method:* Manual Functional Testing
+> **Login → Browse → Search → Sort → View → Add to Cart → Checkout → Order Complete → Logout**
+
 ---
 
+## 🧪 Test Modules
+
+| # | Module | Test Cases | Purpose |
+|---|--------|-----------|---------|
+| 1 | User Login | 21 | Verify secure access — valid/invalid credentials, locked users, empty fields |
+| 2 | Product Search | 6 | Verify users can find items by keyword |
+| 3 | Product Sorting | 6 | Verify sorting by price — low to high / high to low |
+| 4 | Product View | 16 | Verify product details — name, price, description, images |
+| 5 | Add to Cart | 13 | Verify items added correctly, cart counter updates |
+| 6 | Checkout & Order Completion | 14 | Verify form validation, payment overview, order confirmation |
+
+---
+
+## 📈 Test Summary
+
+- **Total Modules:** 6
+- **Total Test Cases:** 76
+- **Positive Test Cases:** 38
+- **Negative Test Cases:** 38
+
+---
+
+## 📂 Repository Structure
+
+```
+SauceDemo-Testing/
+├── README.md
+├── Test-Cases/
+│   ├── Login-Tests.md
+│   ├── Product-Search.md
+│   ├── Product-Sorting.md
+│   ├── Product-View.md
+│   ├── Add-To-Cart.md
+│   └── Checkout-Process.md
+├── Screenshots/
+└── Reports/
+```
 
 
-## Project
+
+
+
