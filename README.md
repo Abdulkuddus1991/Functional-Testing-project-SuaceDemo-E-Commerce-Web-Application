@@ -5,30 +5,30 @@
 
 ---
 
-## 
 
- Project Overview
+
+## Project Overview
 SauceDemo is a demo e-commerce web application. Users can log in, browse products, search, sort by price, view details, add items to cart, and complete the checkout process. This project documents the complete manual functional testing of the core user journey.
 
 ---
 
-## 
- Test Environment
+
+## Test Environment
 •*Application URL:* https://www.saucedemo.com
 •*Browser:* Google Chrome / Mozilla Firefox / Microsoft Edge
 •*Testing Type:* Manual Functional Testing
 ---
 
-## 
 
- Business Logic
+
+## Business Logic
 *Main User Flow:* Login → Browse Products → Search → View Details → Add to Cart → Checkout → Order Complete → Logout
 
 ---
 
-## 
-￼
- Tested Modules
+
+
+## Tested Modules
 
 | No. | Module | Test Cases | Purpose |
 |-----|--------|-----------|---------|
@@ -41,9 +41,9 @@ SauceDemo is a demo e-commerce web application. Users can log in, browse product
 
 ---
 
-## 
-￼
- Test Summary
+ 
+
+## Test Summary
 •*Total Modules:* 6
 •*Total Test Cases:* 76
 •*Positive Test Cases:* 38
@@ -51,6 +51,6 @@ SauceDemo is a demo e-commerce web application. Users can log in, browse product
 •*Test Method:* Manual Functional Testing
 ---
 
-## 
-￼
- Proje
+
+
+## Project
