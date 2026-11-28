@@ -54,5 +54,5 @@ SauceDemo is a demo e-commerce application. This report documents complete manua
 
 ---
 ## Bug Report link
--https://github.com/Abdulkuddus1991/Functional-Testing-project-SuaceDemo-E-Commerce-Web-Application/issues/5
+- https://github.com/Abdulkuddus1991/Functional-Testing-project-SuaceDemo-E-Commerce-Web-Application/issues/5
 
