@@ -9,7 +9,7 @@
 
 ## 📌 Project Overview
 
-SauceDemo is a demo e-commerce application. This report documents complete manual functional testing covering the full user journey: login, browsing, searching, sorting, cart management, checkout, and logout.
+SauceDemo is a demo e-commerce application. This report documents complete manual functional testing covering the full user journey: login, browsing, searching, sorting, cart management, checkout and logout.
 
 ---
 
