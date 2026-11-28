@@ -53,6 +53,8 @@ SauceDemo is a demo e-commerce application. This report documents complete manua
  <img width="935" height="346" alt="Screenshot 2026-11-28 092600" src="https://github.com/user-attachments/assets/cff48fea-84a6-4a44-8173-e7b4bc396a2d" />
 
 ---
-## Bug Report link
-- https://github.com/Abdulkuddus1991/Functional-Testing-project-SuaceDemo-E-Commerce-Web-Application/issues/5
+# 🐛 Bug Reports
+
+- [#5 Sort Order Resets After Browser Back](https://github.com/Abdulkuddus1991/Functional-Testing-project-SuaceDemo-E-Commerce-Web-Application/issues/5)
+
 
