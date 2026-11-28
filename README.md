@@ -49,21 +49,6 @@ SauceDemo is a demo e-commerce application. This report documents complete manua
 
 ---
 
-## 📂 Repository Structure
-
-```
-SauceDemo-Testing/
-├── README.md
-├── Test-Cases/
-│   ├── Login-Tests.md
-│   ├── Product-Search.md
-│   ├── Product-Sorting.md
-│   ├── Product-View.md
-│   ├── Add-To-Cart.md
-│   └── Checkout-Process.md
-├── Screenshots/
-└── Reports/
-```
 
 
 
