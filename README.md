@@ -1,7 +1,7 @@
 
 ## 🛒 SauceDemo — E-Commerce Functional Testing
 
-**Tester:** Abdul Kuddus
+- **Tester:** Abdul Kuddus
 - **Date:** November 2026
 - **Version:** 1.0
 
