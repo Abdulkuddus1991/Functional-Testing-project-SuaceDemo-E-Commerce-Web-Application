@@ -23,7 +23,7 @@ SauceDemo is a demo e-commerce application. This report documents complete manua
 
 ## 🔄 Main User Flow
 
-> **Login → Browse → Search → Sort → View → Add to Cart → Checkout → Order Complete → Logout**
+ **Login → Browse → Search → Sort → View → Add to Cart → Checkout → Order Complete → Logout**
 
 ---
 
